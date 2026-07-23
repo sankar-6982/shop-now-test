@@ -1,6 +1,6 @@
 # 🌱 Kubernetes Concepts for Beginners
 
-Essential Kubernetes concepts explained through the ShopNow application.
+Essential Kubernetes concepts explained through the ShopNow application. 
 
 ## 🏗️ Core Architecture
 
